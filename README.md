@@ -1,0 +1,5 @@
+# aut_course_dm
+
+Data Mining final project 
+
+This project is all about building a smart system that can identify diabetes or prediabetes in patients based on a large dataset of over 70,000 people. The data includes various health-related information like blood pressure, cholesterol, BMI, smoking habits, and more, collected through CDC questionnaires. We'll be using XGBoost, a powerful library for machine learning, to create a classifier. The idea is to train the model to recognize whether someone has diabetes or not based on their health indicators. We'll preprocess the data by handling missing values, modifying column names, and normalizing features. After that, we'll train the XGBoost classifier and fine-tune its parameters to achieve the best performance. Once everything is set, we'll evaluate the model's accuracy and its ability to detect diabetes on a separate test dataset. It's an exciting project that can potentially contribute to better healthcare and early diagnosis of diabetes.
